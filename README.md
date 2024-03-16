@@ -43,12 +43,12 @@ At the end we get the `shift_distance` from `min_chi_square_distance` function a
 To use this program, you need to have a file named "input.in" in the same directory as the executable. The file should contain the text you want to analyze. The program will read the file, ignore newline characters, and calculate the frequency of each lowercase letter.
 
 
-### An example
+## An example
 
 You can place "Uf ime ftq nqef ar fuyqe, uf ime ftq iadef ar fuyqe, uf ime ftq msq ar iuepay, uf ime ftq msq ar raaxuetzqee, uf ime ftq qbaot ar nqxuqr, uf ime ftq qbaot ar uzodqpgxufk, uf ime ftq eqmeaz ar xustf, uf ime ftq eqmeaz ar pmdwzqee, uf ime ftq ebduzs ar tabq, uf ime ftq iuzfqd ar pqebmud." in the "input.in" file.
 
 The answer should be: "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief,it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair."
 
-
+##
 ### Feel free to use the code and try to improve it
 
